@@ -1,4 +1,4 @@
-=# Go Loops — Complete Guide
+# Go Loops — Complete Guide
 
 Go has a **single looping construct**: `for`. Everything else is built from it. There is no `while` or `do-while` keyword — Go simplifies loops into one flexible system.
 
