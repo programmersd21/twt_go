@@ -53,6 +53,12 @@ twt_go/
 │   │   └── loops.md
 │   └── thd_con
 │       └── 'thd_ con.md'
+├── projects
+│   ├── 01-cli-task-manager.md
+│   ├── 02-url-health-checker.md
+│   ├── 03-kv-store.md
+│   ├── 04-concurrent-grep.md
+│   └── 05-distributed-work-queue.md
 ├── README.md
 ├── src
 │   ├── arithmetic_ops
@@ -199,6 +205,15 @@ Apply best practices used in real-world systems.
 - **[Memory Management](tips/04-memory.md)** → Pointer safety, heap vs. stack
 - **[Profiling](tips/05-profiling.md)** → pprof, flame graphs, optimization workflows
 - **[Compiler Optimization](tips/06-compiler-optimization.md)** → Inlining, bounds checking, optimizations
+
+### **Phase 5: Practice Projects** (Capstones)
+Apply everything you've learned by building functional applications.
+
+1. **[CLI Task Manager](projects/01-cli-task-manager.md)** (Beginner)
+2. **[Concurrent URL Health Checker](projects/02-url-health-checker.md)** (Intermediate)
+3. **[In-Memory KV Store with TTL](projects/03-kv-store.md)** (Intermediate/Advanced)
+4. **[Concurrent File Search Tool](projects/04-concurrent-grep.md)** (Advanced)
+5. **[Distributed Work Queue](projects/05-distributed-work-queue.md)** (Advanced)
 
 ---
 
